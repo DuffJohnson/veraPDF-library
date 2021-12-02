@@ -10,7 +10,7 @@ Version 1.20 RC (December 2, 2021)
 - extended the model to support PDF/A-4 rules
 
 ### PDF Parser
-- more robust handling of malicisious PDF documents
+- more robust handling of malicious PDF documents
 - improved parsing of PostScript and CFF fonts
 
 ### Validation
